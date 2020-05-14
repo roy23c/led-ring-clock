@@ -2,8 +2,9 @@
 
 3D printed clock displays time with LED ring
 
-## Getting Started
+![image](https://github.com/roycechung/led-ring-clock/blob/master/images/led-ring-clock-gif.gif)
 
+## Getting Started
 
 ### Prerequisites
 * [Arduino_IDE](https://www.arduino.cc/en/Main/Software)
