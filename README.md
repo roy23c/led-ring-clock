@@ -7,8 +7,8 @@
 
 ### Prerequisites
 * [Arduino_IDE](https://www.arduino.cc/en/Main/Software)
-* [Adafruit_Neopixel] (https://github.com/adafruit/Adafruit_NeoPixel)
-* [Virtuabotix RTC] (https://github.com/chrisfryer78/ArduinoRTClibrary)
+* [Adafruit_Neopixel](https://github.com/adafruit/Adafruit_NeoPixel)
+* [Virtuabotix RTC](https://github.com/chrisfryer78/ArduinoRTClibrary)
 
 ### Hardware Required 
 * Arduino Nano
